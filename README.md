@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/OS-Linux_Mint-🌿?style=flat-square&logo=linux-mint&logoColor=white" alt="Linux Mint">
     <img src="https://img.shields.io/badge/Language-Java-☕?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Language-Python-🐍?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/AI-ComfyUI-🎨?style=flat-square&logo=stability-ai&logoColor=white" alt="ComfyUI">
+    
   </p>
 </div>
 
