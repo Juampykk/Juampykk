@@ -22,5 +22,5 @@ Soy un desarrollador enfocado en la resolución de problemas complejos. Mi forma
 <hr>
 
 <div align="center">
-  <p><i>"La lógica te llevará de A a B. La imaginación te llevará a todas partes."</i></p>
+  
 </div>
