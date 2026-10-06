@@ -16,7 +16,7 @@
 Soy un desarrollador enfocado en la resolución de problemas complejos. Mi formación en la **UTN** me ha dado bases sólidas en lógica y ciencias exactas, las cuales aplico en mis proyectos personales y académicos.
 
 - 🧪 **Lenguajes:** Java, Python, Haskell, Prolog.
-- 🐧 **Entorno:** Usuario de **Linux Mint**.
+- 🐧 **Entorno:** Usuario de **Linux Mint**,Windows.
 - 🌎 **Idiomas:** Mejorando mi Inglés .
 
 <hr>
